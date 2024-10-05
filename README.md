@@ -17,3 +17,13 @@ pytorch结果
 onnx 结果
 
 ![image](https://github.com/cqu20160901/yolov11_onnx_rknn/blob/main/yolov11n_onnx/test_onnx_result.jpg)
+
+
+# rk3588 部署结果
+
+[rk3588 C++部署代码参考链接](https://github.com/cqu20160901/yolov11_dfl_rknn_Cplusplus)
+
+![image](https://github.com/cqu20160901/yolov11_dfl_rknn_Cplusplus/blob/main/examples/rknn_yolov11_demo_dfl_open/test_result.jpg)
+
+时耗
+![image](https://github.com/cqu20160901/yolov11_dfl_rknn_Cplusplus/blob/main/examples/rknn_yolov11_demo_dfl_open/yolov11_rk3588_costtime.png)

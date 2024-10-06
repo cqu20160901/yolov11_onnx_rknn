@@ -2,6 +2,8 @@
 yolov11 部署版本，将DFL放在后处理中，便于移植不同平台,后处理为C++部署而写，python 测试后处理时耗意义不大。
 
 
+导出onnx的流程说明[【yolov11 部署瑞芯微rk3588、RKNN部署工程难度小、模型推理速度快】](https://blog.csdn.net/zhangqian_1/article/details/142722526)
+
 # 文件夹结构说明
 
 yolov11n_onnx：onnx模型、测试图像、测试结果、测试demo脚本

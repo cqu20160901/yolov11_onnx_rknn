@@ -8,8 +8,8 @@ import cv2
 from rknn.api import RKNN
 from math import exp
 
-ONNX_MODEL = './yolov10n_80class_ZQ.onnx'
-RKNN_MODEL = './yolov10n_80class_ZQ.rknn'
+ONNX_MODEL = './yolov11n_80class_ZQ.onnx'
+RKNN_MODEL = './yolov11n_80class_ZQ.rknn'
 DATASET = './dataset.txt'
 
 QUANTIZE_ON = True
